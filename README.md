@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi  👋
 
 I'm a math student and power user looking to land a Machine Learning job.
 
 <!--
-**Xein234/Xein234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+TODO: add the following
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,7 +16,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" style="padding-right:10px;" alt="Python" width="40px"
+<img align="left" style="padding-right:10px;padding-bottom:50px;" alt="Python" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img align="left" style="padding-right:10px;" alt="Numpy" width="40px"
@@ -48,10 +45,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" style="padding-right:10px;" alt="LaTeX" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<br/>
-#
+<br>
+# 
 
-### Math interests
+### 📚Math interests
 + Differential Geometry
 + Proof systems
 
