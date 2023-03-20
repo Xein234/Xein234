@@ -34,16 +34,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" style="padding-right:10px;" alt="C" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<img align="left" style="padding-right:10px;" alt="linux" width="40px"
+<img align="left" style="padding-right:10px;" alt="Linux" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="left" style="padding-right:10px;" alt="posix_shell" width="40px"
+<img align="left" style="padding-right:10px;" alt="Posix shell" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<img align="left" style="padding-right:10px;" alt="vim" width="40px"
+<img align="left" style="padding-right:10px;" alt="Vim" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
 
-<img align="left" style="padding-right:10px;" alt="git" width="40px"
+<img align="left" style="padding-right:10px;" alt="Git" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" style="padding-right:10px;" alt="LaTeX" width="40px"
