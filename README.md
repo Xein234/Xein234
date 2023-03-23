@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg
 
 ### 📚Math interests
 + Differential Geometry
-+ Proof systems
++ Proof Assistants
 
 
 #
