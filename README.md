@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg
 
 ### 📚Math interests
 + Differential Geometry
-+ Proof Assistants
++ Proof Assistant Software (e.g. Lean theorem prover)
 
 
 #
